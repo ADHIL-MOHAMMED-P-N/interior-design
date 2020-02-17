@@ -1,0 +1,13 @@
+<div class="team1">
+    <img src="member1.jpg">
+    <h2>Cloe Marena</h2>
+</div>
+
+<div class="team2">
+    <img src="member2.jpg">
+    <h2>Cloe Marena</h2>
+</div>
+
+<div class="team3">
+    <img src="member3.jpg">
+</div>

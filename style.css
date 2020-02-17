@@ -1,0 +1,1135 @@
+body{
+    padding:0;
+    margin:0;
+}
+
+.bg{
+    background-image: url("bg2.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100%;
+    height:700px;
+    font-family:Arial;
+    background-attachment: fixed;
+}
+.topnav{
+    padding-top:30px;
+    padding-left:130px;
+}
+.material-icons{/*mailicon*/
+    margin-left:690px;
+    vertical-align: middle; 
+    font-family:Arial;   
+}
+.fa-phone-alt{
+    margin-left:20px;
+    font-size:12px;
+    font-family:Arial;
+}
+
+.topnav a{
+    text-decoration:none;
+    color:black;
+
+}
+
+.heading{
+    font-family:Arial;
+    margin-left:66px;
+    margin-top:-1px;
+    margin-top:12px;
+    
+}
+
+.bottomnav{
+    margin-left:65px;
+    width:90%;
+    background-color:#f3f3f3;
+    height:50px;
+    border: 1px solid #f3f3f3;
+    border-radius:30px;
+    opacity:.9;
+    margin-top:15px;
+    position: fixed;
+    z-index: 1;
+}
+
+.navlist{
+    margin-left:700px;
+    margin-top:-44px;
+    
+    
+    
+    
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+li{
+    display:inline;
+    padding-left:20px;
+}
+ul li a{
+    text-decoration:none;
+    font-size:15px;
+    color:black;
+    border: 1px solid transparent;
+    padding: 4px;
+
+
+}
+
+ul li a:hover{
+    color:grey;
+    border:1px solid black;
+    background-color:black;
+    color:white;
+    padding: 4px;
+    border-radius:25px;
+}
+
+.maintitle {
+    font-size:60px;
+    margin-left:120px;
+    text-shadow:2px 2px 5px black;
+    margin-top:150px;
+
+}
+
+.subtitle{
+    font-size:16px;
+    margin-top:-80px;
+    margin-left:6px;
+    text-shadow: none;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~section 2~~~~~~~~~~~~~~~~~~~~~~~~~`*/
+
+.section2{
+    background-color:white;
+    width: 100%;
+    height: 600px;
+}
+
+
+
+
+.innovative{
+    background-color:white;
+    width: 33.33%;
+    height:250px;   
+    float:left;
+    
+}
+.innovative h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:130px;
+    margin-top:-60px;
+}
+
+.innovative h4{
+    color:gray;
+    margin-left:130px;
+    margin-top:-15px;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+
+
+
+
+.architectural{
+    background-color:white;
+    width: 33.33%;
+    height:250px;
+    display: inline-block;
+    
+}
+
+.architectural h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:160px;
+    margin-top:-60px;
+}
+
+.architectural h4{
+    color:grey;
+    margin-left:160px;
+    margin-top:-15px;
+    font-family: Arial;
+    font-weight: normal;
+
+}
+
+
+.interior{
+    background-color:white;
+    width: 33.33%;
+    height:250px;
+    float: right;
+    
+}
+
+.interior h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:130px;
+    margin-top:-60px;
+}
+
+.interior h4{
+    color:gray;
+    margin-left:130px;
+    margin-top:-15px;
+    font-family: Arial;
+    font-weight: normal;
+    
+}
+/*******section3********/
+.aboutimage{
+    width: 600px;
+    height:auto;
+    
+    
+}
+
+
+.aboutus{
+    margin-left:50px;
+    width: 600px;
+    float:left;
+    box-shadow:.1px .1px 15px;
+    
+}
+.content{
+    width:658px;
+    height:410px;
+    margin-top:-20px;
+    float:right;
+}
+.content h5{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0px 0px 0px 100px;
+}
+.content h1{
+    padding: 0px 0px 0px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content h4{
+    padding: 0px 0px 0px 100px;
+    color:grey;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:normal;
+
+
+}
+
+.fa-check{
+    color:green;
+}
+
+.readmore{
+    padding: 15px 25px;
+    background-color:red;
+    color:white;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-left:100px;
+}
+
+
+.section3{
+   margin-top: -300px;
+}
+/**********************our team***************/
+
+.meetourteam{
+    background-color: white;
+    margin-top:500px;
+    
+}
+.meetourteam h5{
+    text-align: center;
+    font-family:arial;
+    color:red;
+}
+.meetourteam h1{
+    text-align: center;
+    font-family: arial
+}
+.meetourteam p{
+    font-family: arial;
+    text-align:center;
+    color:grey;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~section4~~~~~~~~~~~~~~~~~~~~~*/
+.section4{
+    background-color:white;
+    height: 500px;
+    width: 1000px;
+    margin-top:70px;
+    margin-left:180px;
+    font-family:Arial;
+}
+
+.team1{
+    float:left;
+    background-color: white;
+    width: 333.33px;
+    height:550px;
+}
+
+.team1 img{
+    width: 333.33px;
+    float:right;
+    height:350px;
+}
+.team1 h2{
+    background-color: white;
+    margin-top:370px;
+    font-size:19px;
+
+}
+.team1 h5{
+    color:red;
+}
+
+.team2{
+    background-color: white;
+    width:333.33px;
+    display:inline-block;
+    height:550px;
+}
+
+.team2 img {
+    width: 333.33px;
+    height:350px;
+
+}
+.team2 h2{
+    background-color: white;
+    font-size:19px;
+    margin-top: 20px;
+}
+
+.team2 h5{
+    color:red;
+}
+
+.team3{
+    float:right;
+    background-color:white;
+    width: 333.33px;
+    height:550px;
+}
+.team3 img{
+    width: 333.33px;
+    height:350px;
+    float:left;
+
+}
+.team3 h2{
+    background-color:white;
+    margin-top:370px;
+    font-size:19px;
+    
+}
+.team3 h5{
+    color:red;
+}
+
+.section4 p{
+    color:grey;
+}
+.section4 img{
+    transition: transform .5s;
+}
+
+.section4 img:hover{
+    transform: scale(1.05);
+}
+
+
+
+
+/***********************section 5 secon group of memebers**************/
+
+.section5{
+    background-color:white;
+    height: 500px;
+    width: 1000px;
+    margin-top:50px;
+    margin-left:180px;
+    font-family:Arial;
+}
+
+.team4{
+    float:left;
+    background-color: white;
+    width: 333.33px;
+    height:550px;
+}
+
+.team4 img{
+    width: 333.33px;
+    float:right;
+    height:350px;
+}
+.team4 h2{
+    background-color: white;
+    margin-top:370px;
+    font-size:19px;
+
+}
+.team4 h5{
+    color:red;
+}
+
+.team5{
+    background-color: white;
+    width:333.33px;
+    display:inline-block;
+    height:550px;
+}
+
+.team5 img {
+    width: 333.33px;
+    height:350px;
+
+}
+.team5 h2{
+    background-color: white;
+    font-size:19px;
+    margin-top: 20px;
+}
+
+.team5 h5{
+    color:red;
+}
+
+.team6{
+    float:right;
+    background-color:white;
+    width: 333.33px;
+    height:550px;
+}
+.team6 img{
+    width: 333.33px;
+    height:350px;
+    float:left;
+
+}
+.team6 h2{
+    background-color:white;
+    margin-top:370px;
+    font-size:19px;
+    
+}
+.team6 h5{
+    color:red;
+}
+
+.section5 p{
+    color:grey;
+}
+
+
+.section5 img{
+    transition: transform .5s;
+    
+}
+
+.section5 img:hover{
+    transform: scale(1.05);
+}
+
+
+/***********************section6******************/
+
+
+
+
+
+
+
+
+.section6{
+    width: 1150px;
+    height: 700px;
+    background-color:white;
+    margin-top:150px;
+    font-family: Arial;
+    margin-left:95px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+
+.section6 h5{
+    color:red;
+    text-align:center;
+}
+.section6 h1{
+    text-align:center;
+    
+}
+.section6 p{
+    color:grey;
+    text-align:center;
+}
+
+
+.section6 button{
+    padding: 15px 70px ;
+    margin-left:75px;
+    color:white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 3px;
+    transition:.5s;
+}
+
+.section6 button:hover{
+    color:black;
+    background-color: white;
+    
+}
+
+.starter{
+    width: 350px;
+    height:500px;
+    background-color:white;
+    float:left;
+    border: 1px solid lightgrey;
+    margin-top:30px;
+    
+}
+
+.starter h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+.starter h1{
+    font-weight:normal;
+}
+
+.starter h4{
+    font-weight: normal;
+    color:grey;
+    text-align:center;
+
+}
+
+
+.professional{
+    width: 350px;
+    height:500px;
+    background-color:white;
+    display:inline-block;
+    margin-left:47px;
+    border: 1px solid lightgrey;
+    margin-top:30px;
+    
+}
+
+.professional h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+.professional h1{
+    font-weight:normal;
+}
+
+.professional h4{
+    font-weight: normal;
+    color:grey;
+    text-align:center;
+    
+}
+
+
+.enterprise{
+    width: 350px;
+    height:500px;
+    background-color: white;
+    float:right;
+    border: 1px solid lightgrey;
+    margin-top:30px;
+    
+}
+
+.enterprise h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+.enterprise h1{
+    font-weight:normal;
+}
+
+.enterprise h4{
+    font-weight: normal;
+    color:grey;
+    text-align:center;
+    
+}
+
+
+sub{
+    color:grey;
+
+}
+
+sup{
+    color:grey;
+}
+
+small{
+    font-size:19px;
+}
+
+.tick h4{
+    
+text-align:initial;
+margin-left:40px;
+}
+
+
+
+/*~~~~~~~~~~~section7~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section7{
+    font-family:arial;
+    background-color:white;
+    padding: 30px 120px 30px 95px;
+}
+
+
+.section7 img{
+    width: 500px;
+    margin-left: 50px;
+}
+
+.section7 .dropdown{
+    margin-left:100px;
+    background-color:white;
+    width: 400px;
+    height:560px;
+    float:right;
+    padding: 10px 30px 30px 50px;
+        
+
+}
+
+.section7 h4{
+    color:red;
+    font-weight:normal;
+
+}
+
+.section7 p{
+    color:grey;
+}
+
+.section7 a{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+    
+    
+
+}
+
+.section7 a:hover{
+    color:red;
+}
+
+
+.content1{
+    display:none;
+   
+}
+
+
+.dropdown1:hover .content1{
+    display:initial;
+    
+}
+
+
+
+
+/*~~~~~~~~~~~~footer~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.footer{
+    background-color:#333333;
+    font-family: Arial;
+    font-weight: normal;
+    height:560px;
+}
+
+.aboutusnavigation{
+    float:left;
+    background-color: #333333;
+    width: 450px;
+    
+    font-weight: normal;
+
+}
+
+.aboutusnavigation h2{
+   margin-left:70px;
+   color:white;
+}
+
+.aboutusnavigation p{
+    margin-left:70px;
+    color:lightgrey;
+    font-weight: lighter;
+}
+
+
+.firstlist{
+   background-color:transparent;
+   padding: 10px 1px 10px 50px;
+  float:left;
+  color:white;
+}
+.firstlist ul li a{
+    color:lightgrey;
+    background-color: transparent;
+    border: 0px solid transparent;
+    cursor: pointer;
+    
+}
+
+.firstlist ul li a:hover{
+    color:white;
+    background-color: transparent;
+    border: 0px solid transparent;
+    cursor: pointer;
+    
+}
+
+
+.secondlist ul li a{
+    color:lightgrey;
+    background-color: transparent;
+    border: 0px solid transparent;
+    cursor: pointer;
+    
+}
+
+.secondlist ul li a:hover{
+    color:white;
+    background-color: transparent;
+    border: 0px solid transparent;
+    cursor: pointer;
+    
+}
+
+
+
+
+.secondlist{
+    color:white;
+    background-color:transparent;
+    float:right;
+    padding: 10px 100px 10px 30px ;
+}
+
+.recentnews{
+    display: inline-block;
+    background-color:#333333;
+    width: 449px;
+}
+
+.recentnews img{
+    width: 100px;
+}
+.recentnews h3{
+    color:lightgray;
+}
+
+.recentnews ul li{
+    color:lightgray;
+}
+
+
+.subscribe{
+    float:right;
+    background-color: #333333;
+    width: 450px;
+    color:lightgrey;    
+}
+.subscribe a{
+    color:lightgray;
+}
+.subscribe input{
+    width: 250px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid lightgray;
+    color:white;
+
+}
+
+.subscribe .submiting{
+    width: 80px;
+    border: 1px solid red;
+    background-color: red;
+    color:white;
+}
+
+.submiting:hover{
+    background-color:white;
+    border-color: white;
+    transition: 0.5s;
+    color:red;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~media query~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+@media only screen and (max-width: 768px){
+
+.bg{
+    width:100%;
+    height:300px;
+    background-attachment: scroll;
+}
+
+.topnav{
+    padding-top:10px;
+    padding-left:44px;
+}
+
+.fa-twitter{
+    font-size:13px;
+}
+.fa-facebook-f{
+    font-size:13px;
+}
+
+.fa-linkedin-in{
+    font-size:13px;
+}
+.fa-instagram{
+    font-size:13px;
+}
+.material-icons{
+    margin-left:220px;
+    font-size:13px;
+}
+
+.fa-phone-alt{
+    margin-left:390px;
+    margin-top:-13px;
+}
+
+
+.mail{
+    display:none;
+}
+
+.phone{
+    display:none; 
+
+}
+
+
+
+.maintitle{
+    font-size:25px;
+    margin-top:50px;
+    margin-left:30px;
+    text-shadow: 1px 1px 3px;
+    
+}
+
+.subtitle{
+  display:none;
+
+}
+
+.bottomnav{
+   margin-left:-705px;
+   margin-top: -20px;
+   
+   
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+li{
+    display:inline;
+    padding-left:4px;
+}
+ul li a{
+    text-decoration:none;
+    font-size:12px;
+    color:black;
+    display: inline-block;
+    padding: 2px;
+    
+}
+ul li a:hover{
+    
+    background-color:black;
+    padding: 2px;
+    border: 1px soli black;
+    border-radius: 9px;
+    color:white;
+
+}
+.bottomnav{
+    margin-left: 25px;
+    height: 30px;
+    margin-top:6px;
+}
+.heading {
+    font-size:17px;
+    width: 60px;
+    margin-left:10px;
+    margin-top:7px;
+}
+
+
+.navlist{
+    
+    margin-left:110px;
+    margin-top:-35px;
+    width:320px;
+}
+
+
+
+/*~~~~~~~~~~~~~~~~~~~~~~section2~~~~~~~~~~~~~~*/
+
+
+.innovative{
+    width: 483px;
+    height:150px;
+}
+
+.innovative-content{
+    margin-top:-50px;
+}
+
+.architectural{
+    width: 483px;
+    height:150px;
+}
+.architectural-content{
+    margin-top:-50px;
+    margin-left:-20px;
+}
+.interior{
+    width: 483px;
+    height:150px;
+}
+.interior-content{
+    margin-top:-50px;
+    margin-left:-1px;
+}
+/*~~~~~~~~~~section3~~~~~~~~~~~~~*/
+.aboutimage{
+    width: 450px;
+    margin-left:0px;
+}
+.aboutus{
+    width: 450px;
+    margin-left:18px;
+    margin-top:20px;
+}
+.content{
+    width:450 ;
+    margin-top:10px;
+    margin-right:14px;
+    
+}
+.content h1{
+    margin-left:-70px;
+}
+.content h5{
+    margin-left: -70px;
+}
+.content h4{
+    margin-left: -70px;
+}
+.readmore{
+    padding: 10px 20px;
+    color:white;
+    margin-left: 32px;
+}
+
+/*~~~~~~~~~~~~section  4  &  5  ~~~~~~~~~~~~~*/
+.section4{
+    width: 300px;
+}
+
+.section5{
+    width:250px;
+}
+
+
+
+
+/************meetourteam*************/
+
+.meetourteam{
+    background-color:white;
+    height:50px;
+    margin-top:950px;
+}
+.meetourteam h1{
+    margin-top: -10px;
+
+}
+.meetourteam p{
+    margin-top: -10px;
+}
+/***********team 1*************/
+
+.team1{
+    background-color:white;
+    margin-left:-95px;
+}
+.team2{
+    background-color:white;
+    margin-top:550px;
+    margin-left: -330px;
+}
+.team3{
+    background-color: white;
+    float: initial;
+    margin-top: -300px;
+    margin-left:-90px;
+    
+
+
+}
+
+.team4{
+    margin-top:580px;
+    background-color:white;
+    margin-left:-330px;
+}
+.team5{
+    margin-top:1800px;
+    margin-left:-335px;
+    background-color: white
+}
+.team6{
+    margin-top:-350px;
+    float: initial;
+    margin-left:-88px;
+}
+
+
+/*~~~~~~~~~section6~~~~~~~~~~~~~*/
+
+
+
+
+.section6{
+    background-color: white;
+    width: 460px;
+    
+    margin-left:1px;
+    margin-top:2450px;
+   height: 1800px;
+}
+
+.starter{
+    margin-left:51px;
+}
+
+.enterprise{
+    float:initial;
+    margin-left:47px;
+}
+
+/*~~~~~~~section7~~~~~~~~~~~*/
+
+
+
+.section7 img{
+    width: 400px;
+    margin-left: -50px;
+
+}
+
+.section7 .dropdown{
+    margin-right:-100px;
+    height:400px;
+    width: 350px;
+}
+
+.footer{
+    margin-top:500px;
+
+}
+
+.aboutusnavigation{
+    height:100px;
+}
+.recentnews{
+    margin-top:300px;
+    background-color:#333333;
+    padding: 10px 10px 1px 24px;
+
+}
+.recentnews h3{
+    margin-left:30px;
+}
+
+.recentnews ul{
+    margin-left:30px;
+    
+}
+
+.subscribe{
+    float:initial;
+    padding: 10px 9px 60px 24px;
+}
+
+.subscribe h3{
+    margin-left:30px;
+}
+.subscribe p{
+    margin-left:30px;
+}
+
+.subscribe input{
+   margin-left:30px;
+}
+
+.subscribe .iconclass{
+    margin-left: 30px;
+}
+
+
+
+
+}

@@ -1,0 +1,357 @@
+<div class="meetourteam">
+  <h5>MEET OUR TEAM</h5>
+  <h1>Our Team</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Eligendi, explicabo, quasi.<br> Magni deserunt sunt labore.
+  </p>
+</div>
+  
+      <div class="section4">
+        <div class="team1">
+          <img src="member1.jpg">
+          <h2>Cloe Marena</h2>
+          <h5>ARCHITECT</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+             Voluptatum excepturi corporis qui doloribus perspiciatis
+              ipsa modi accusantium repellat.</p>
+                   
+     </div>
+
+     <div class="team2">
+          <img src="member2.jpg">
+          <h2>John Rooster</h2>
+          <h5>DESIGNER</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+            Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi
+             accusantium repellat.</p>
+     </div>
+
+     <div class="team3">
+          <img src="member3.jpg">
+          <h2>Will Turner</h2>
+          <h5>DESIGNER</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+            Voluptatum excepturi corporis qui doloribus perspiciatis ipsa 
+            modi accusantium repellat.</p>
+     </div>
+
+      </div>
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////
+
+
+
+
+
+<div class="section5">
+<div class="team4">
+  <img src="member4.jpg">
+  <h2>Cloe Marena</h2>
+  <h5>ARCHITECT</h5>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+     Voluptatum excepturi corporis qui doloribus perspiciatis
+      ipsa modi accusantium repellat.</p>
+</div>
+
+<div class="team5">
+  <img src="member5.jpg">
+  <h2>John Rooster</h2>
+  <h5>DESIGNER</h5>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi
+     accusantium repellat.</p>
+</div>
+
+<div class="team6">
+  <img src="member6.jpg">
+  <h2>Will Turner</h2>
+  <h5>DESIGNER</h5>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Voluptatum excepturi corporis qui doloribus perspiciatis ipsa 
+    modi accusantium repellat.</p>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+/*******************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section6">
+<h5>PRICING</h5>
+<h1>Choose Your Plan</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+   Eligendi, explicabo, quasi. Magni deserunt sunt labore.</p>
+    <div class="starter">
+          <h2>Starter</h2>
+          <h1><sup><small>$</small></sup>30<small><sub>/year</sub></small></h1>
+        
+          <h4>* Billed annualy or $10 per month</h4>
+         <div class="tick">
+           <h4><i class='fas fa-check'></i>  Max 5 users</h4>
+           <h4><i class='fas fa-check'></i>  29 local security</h4>
+           <h4><i class='fas fa-check' style="color:lightgrey"></i>  <strike>Desktop App</strike></h4>
+           <h4><i class='fas fa-check' style="color:lightgrey"></i>  <strike>Email Support</strike></h4>
+           <h4><i class='fas fa-check' style="color:lightgrey"></i>  <strike>Phone Support 24/7</strike></h4>
+         </div>
+          <button>Buy now</button>
+          
+    </div>
+
+    <div class="professional">
+          <h2>Professional</h2>
+          <h1><sup><small>$</small></sup>72<small><sub>/year</sub></small></h1>
+          <h4>* Billed annualy or $30 per month</h4>
+        <div class="tick">
+          <h4><i class='fas fa-check'></i>  Max 10 users</h4>
+          <h4><i class='fas fa-check'></i>  29 local security</h4>
+          <h4><i class='fas fa-check'></i>  Desktop App</h4>
+          <h4><i class='fas fa-check'></i> Email Support</h4>
+          <h4><i class='fas fa-check'  style="color:lightgrey"></i>  <strike>Phone Support 24/7</strike></h4>
+          <button>Buy now</button>
+        </div>
+    </div>
+
+    <div class="enterprise">
+          <h2>Enterprise</h2>
+          <h1><sup><small>$</small></sup>130<small><sub>/year</sub></small></h1>
+          <h4>* Billed annualy or $40 per month</h4>
+      <div class="tick"> 
+          <h4><i class='fas fa-check'></i>  unlimited users</h4>
+          <h4><i class='fas fa-check'></i>  29 local security</h4>
+          <h4><i class='fas fa-check'></i>  Desktop App</h4>
+          <h4><i class='fas fa-check'></i>  Email Support</h4>
+          <h4><i class='fas fa-check'></i>  Phone Support 24/7</h4>
+          <button>Buy now</button>
+      </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section6{
+    width: 1150px;
+    height: 700px;
+    background-color:white;
+    margin-top:150px;
+    font-family: Arial;
+    margin-left:95px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+
+.section6 h5{
+    color:red;
+    text-align:center;
+}
+.section6 h1{
+    text-align:center;
+    
+}
+.section6 p{
+    color:grey;
+    text-align:center;
+}
+
+
+.section6 button{
+    padding: 15px 70px ;
+    margin-left:75px;
+    color:white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 3px;
+    transition:.5s;
+}
+
+.section6 button:hover{
+    color:black;
+    background-color: white;
+    
+}
+
+.starter{
+    width: 350px;
+    height:500px;
+    background-color:white;
+    float:left;
+    border: 1px solid lightgrey;
+    margin-top:30px;
+    
+}
+
+.starter h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+.starter h1{
+    font-weight:normal;
+}
+
+.starter h4{
+    font-weight: normal;
+    color:grey;
+    text-align:center;
+
+}
+
+
+.professional{
+    width: 350px;
+    height:500px;
+    background-color:white;
+    display:inline-block;
+    margin-left:47px;
+    border: 1px solid lightgrey;
+    margin-top:30px;
+    
+}
+
+.professional h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+.professional h1{
+    font-weight:normal;
+}
+
+.professional h4{
+    font-weight: normal;
+    color:grey;
+    text-align:center;
+    
+}
+
+
+.enterprise{
+    width: 350px;
+    height:500px;
+    background-color: white;
+    float:right;
+    border: 1px solid lightgrey;
+    margin-top:30px;
+    
+}
+
+.enterprise h2{
+    margin-top:30px;
+    text-align:center;
+
+}
+
+.enterprise h1{
+    font-weight:normal;
+}
+
+.enterprise h4{
+    font-weight: normal;
+    color:grey;
+    text-align:center;
+    
+}
+
+
+sub{
+    color:grey;
+
+}
+
+sup{
+    color:grey;
+}
+
+small{
+    font-size:19px;
+}
+
+.tick h4{
+    
+text-align:initial;
+margin-left:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section6{
+    background-color: teal;
+    width: 460px;
+    
+    margin-left:1px;
+    margin-top:2450px;
+   height: 1800px;
+}
+
+.starter{
+    margin-left:51px;
+}
+
+.enterprise{
+    float:initial;
+    margin-left:47px;
+}
+
